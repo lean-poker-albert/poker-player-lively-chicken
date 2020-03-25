@@ -1,6 +1,6 @@
 class Player {
   static get VERSION() {
-    return '👑';
+    return '🌈';
   }
 
   static betRequest(gameState, bet) {
@@ -9,6 +9,6 @@ class Player {
 
   static showdown(gameState) {
   }
-
+}
 
 module.exports = Player;
