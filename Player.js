@@ -9,6 +9,6 @@ class Player {
 
   static showdown(gameState) {
   }
-}
+
 
 module.exports = Player;
